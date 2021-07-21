@@ -1,6 +1,7 @@
  ## **Gradient Descent Algorithms**
-      Gradient descent (GD) is a first-order iterative optimization algorithm that's used when training a machine learning model.
-      It's based on a convex function and tweaks its parameters iteratively to minimize a cost function as far as possible.
+ 
+  #### Gradient descent (GD) is a first-order iterative optimization algorithm that's used when training a machine learning model.
+  #### It's based on a convex function and tweaks its parameters iteratively to minimize a cost function as far as possible.
       
  ## Here is my implementation.  
 
